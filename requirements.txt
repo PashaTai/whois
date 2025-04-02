@@ -1,5 +1,5 @@
-fastapi
-uvicorn
-python-whois
-cryptography
-certifi
+fastapi==0.95.1
+uvicorn==0.22.0
+python-whois==0.8.0
+cryptography==40.0.2
+certifi==2023.5.7
